@@ -6,6 +6,7 @@ class Program
     static void Main()
     {
         // List of grocery items
+        groceryItems.Add("Oranges");
         List<string> groceryItems = new List<string>
         {
             "Milk",
